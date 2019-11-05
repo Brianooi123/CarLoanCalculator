@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Car loan calculator</string>
+    <string name="loan_peroid">Loan period</string>
+    <string name="car_price">Car Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+</resources>
